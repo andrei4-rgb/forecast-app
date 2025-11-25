@@ -5,22 +5,15 @@ export default function ForecastApp() {
   const [products, setProducts] = useState([]);
   const [suggestions, setSuggestions] = useState([]);
 
-  useEffect(() => {
-    const fetchProducts = async () => {
-      const temp = [];
-      for (let i = 1; i <= 100; i++) {
-        temp.push({
-          id: i,
-          name: "Product " + i,
-          inventory: Math.floor(Math.random() * 50),
-          avgSales: Math.floor(Math.random() * 70) + 10,
-          leadTime: Math.floor(Math.random() * 7) + 1,
-        });
-      }
-      setProducts(temp);
-    };
-    fetchProducts();
-  }, []);
+ useEffect(() => {
+  const fetchProducts = async () => {
+    const response = await fetch("/products.json");
+    const data = await response.json();
+    setProducts(data);
+  };
+  fetchProducts();
+}, []);
+
 
   const handlePredict = async () => {
     const trainingData = tf.tensor2d([

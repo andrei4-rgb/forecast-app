@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "name": "Product 1",
+    "inventory": 12,
+    "avgSales": 45,
+    "leadTime": 3
+  },
+  {
+    "id": 2,
+    "name": "Product 2",
+    "inventory": 5,
+    "avgSales": 30,
+    "leadTime": 5
+  },
+  {
+    "id": 3,
+    "name": "Product 3",
+    "inventory": 20,
+    "avgSales": 60,
+    "leadTime": 2
+  }
+
+]
