@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
 import * as tf from "@tensorflow/tfjs";
+import "./App.css";
 
 export default function ForecastApp() {
   const [products, setProducts] = useState([]);
