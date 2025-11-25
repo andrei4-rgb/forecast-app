@@ -5,7 +5,7 @@ export default function ForecastApp() {
   const [products, setProducts] = useState([]);
   const [suggestions, setSuggestions] = useState([]);
 
- useEffect(() => {
+useEffect(() => {
   const fetchProducts = async () => {
     const response = await fetch("/products.json");
     const data = await response.json();
@@ -13,6 +13,7 @@ export default function ForecastApp() {
   };
   fetchProducts();
 }, []);
+
 
 
   const handlePredict = async () => {

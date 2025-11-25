@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "name": "Unbranded Silk Chips",
+    "inventory": 18,
+    "avgSales": 44,
+    "leadTime": 5
+  },
+  {
+    "id": 2,
+    "name": "Incredible Wooden Tuna",
+    "inventory": 45,
+    "avgSales": 68,
+    "leadTime": 7
+  },
+  {
+    "id": 3,
+    "name": "Gorgeous Silk Mouse",
+    "inventory": 40,
+    "avgSales": 46,
+    "leadTime": 3
+  },
+  {
+    "id": 4,
+    "name": "Bespoke Bronze Table",
+    "inventory": 34,
+    "avgSales": 19,
+    "leadTime": 5
+  },
+  {
+    "id": 5,
+    "name": "Awesome Marble Fish",
+    "inventory": 15,
+    "avgSales": 32,
+    "leadTime": 4
+  },
+  {
+    "id": 6,
+    "name": "Refined Concrete Cheese",
+    "inventory": 47,
+    "avgSales": 43,
+    "leadTime": 7
+  },
+  {
+    "id": 7,
+    "name": "Electronic Bronze Bike",
+    "inventory": 10,
+    "avgSales": 30,
+    "leadTime": 1
+  },
+  {
+    "id": 8,
+    "name": "Awesome Metal Computer",
+    "inventory": 35,
+    "avgSales": 24,
+    "leadTime": 6
+  },
+  {
+    "id": 9,
+    "name": "Awesome Steel Car",
+    "inventory": 33,
+    "avgSales": 36,
+    "leadTime": 2
+  },
+  {
+    "id": 10,
+    "name": "Handmade Marble Keyboard",
+    "inventory": 12,
+    "avgSales": 70,
+    "leadTime": 1
+  },
+  {
+    "id": 11,
+    "name": "Recycled Steel Sausages",
+    "inventory": 18,
+    "avgSales": 47,
+    "leadTime": 4
+  },
+  {
+    "id": 12,
+    "name": "Ergonomic Wooden Ball",
+    "inventory": 23,
+    "avgSales": 12,
+    "leadTime": 3
+  },
+  {
+    "id": 13,
+    "name": "Frozen Metal Gloves",
+    "inventory": 41,
+    "avgSales": 18,
+    "leadTime": 4
+  },
+  {
+    "id": 14,
+    "name": "Intelligent Steel Soap",
+    "inventory": 5,
+    "avgSales": 31,
+    "leadTime": 7
+  },
+  {
+    "id": 15,
+    "name": "Licensed Gold Soap",
+    "inventory": 9,
+    "avgSales": 45,
+    "leadTime": 4
+  },
+  {
+    "id": 16,
+    "name": "Ergonomic Marble Cheese",
+    "inventory": 25,
+    "avgSales": 15,
+    "leadTime": 1
+  },
+  {
+    "id": 17,
+    "name": "Frozen Metal Chair",
+    "inventory": 44,
+    "avgSales": 47,
+    "leadTime": 2
+  },
+  {
+    "id": 18,
+    "name": "Small Wooden Cheese",
+    "inventory": 34,
+    "avgSales": 19,
+    "leadTime": 4
+  },
+  {
+    "id": 19,
+    "name": "Modern Plastic Chair",
+    "inventory": 4,
+    "avgSales": 17,
+    "leadTime": 5
+  },
+  {
+    "id": 20,
+    "name": "Modern Bronze Pants",
+    "inventory": 46,
+    "avgSales": 43,
+    "leadTime": 7
+  },
+  {
+    "id": 21,
+    "name": "Unbranded Metal Shirt",
+    "inventory": 41,
+    "avgSales": 23,
+    "leadTime": 4
+  },
+  {
+    "id": 22,
+    "name": "Modern Metal Bike",
+    "inventory": 42,
+    "avgSales": 62,
+    "leadTime": 5
+  },
+  {
+    "id": 23,
+    "name": "Ergonomic Metal Ball",
+    "inventory": 8,
+    "avgSales": 33,
+    "leadTime": 3
+  },
+  {
+    "id": 24,
+    "name": "Modern Granite Soap",
+    "inventory": 39,
+    "avgSales": 26,
+    "leadTime": 5
+  },
+  {
+    "id": 25,
+    "name": "Handcrafted Gold Mouse",
+    "inventory": 44,
+    "avgSales": 64,
+    "leadTime": 1
+  },
+  {
+    "id": 26,
+    "name": "Fresh Bamboo Shirt",
+    "inventory": 1,
+    "avgSales": 45,
+    "leadTime": 2
+  },
+  {
+    "id": 27,
+    "name": "Soft Bamboo Keyboard",
+    "inventory": 0,
+    "avgSales": 68,
+    "leadTime": 7
+  },
+  {
+    "id": 28,
+    "name": "Electronic Wooden Pants",
+    "inventory": 2,
+    "avgSales": 38,
+    "leadTime": 6
+  },
+  {
+    "id": 29,
+    "name": "Electronic Plastic Towels",
+    "inventory": 37,
+    "avgSales": 67,
+    "leadTime": 1
+  },
+  {
+    "id": 30,
+    "name": "Small Silk Ball",
+    "inventory": 4,
+    "avgSales": 67,
+    "leadTime": 6
+  },
+  {
+    "id": 31,
+    "name": "Frozen Silk Cheese",
+    "inventory": 18,
+    "avgSales": 51,
+    "leadTime": 1
+  },
+  {
+    "id": 32,
+    "name": "Oriental Bronze Pants",
+    "inventory": 0,
+    "avgSales": 27,
+    "leadTime": 5
+  },
+  {
+    "id": 33,
+    "name": "Fresh Metal Hat",
+    "inventory": 17,
+    "avgSales": 33,
+    "leadTime": 2
+  },
+  {
+    "id": 34,
+    "name": "Gorgeous Wooden Shoes",
+    "inventory": 10,
+    "avgSales": 33,
+    "leadTime": 7
+  },
+  {
+    "id": 35,
+    "name": "Licensed Wooden Mouse",
+    "inventory": 45,
+    "avgSales": 61,
+    "leadTime": 6
+  },
+  {
+    "id": 36,
+    "name": "Electronic Gold Chicken",
+    "inventory": 37,
+    "avgSales": 39,
+    "leadTime": 4
+  },
+  {
+    "id": 37,
+    "name": "Recycled Concrete Car",
+    "inventory": 45,
+    "avgSales": 40,
+    "leadTime": 4
+  },
+  {
+    "id": 38,
+    "name": "Oriental Ceramic Chicken",
+    "inventory": 36,
+    "avgSales": 19,
+    "leadTime": 1
+  },
+  {
+    "id": 39,
+    "name": "Handmade Silk Fish",
+    "inventory": 45,
+    "avgSales": 30,
+    "leadTime": 1
+  },
+  {
+    "id": 40,
+    "name": "Tasty Silk Sausages",
+    "inventory": 7,
+    "avgSales": 28,
+    "leadTime": 5
+  },
+  {
+    "id": 41,
+    "name": "Soft Plastic Computer",
+    "inventory": 19,
+    "avgSales": 20,
+    "leadTime": 3
+  },
+  {
+    "id": 42,
+    "name": "Unbranded Plastic Mouse",
+    "inventory": 42,
+    "avgSales": 34,
+    "leadTime": 1
+  },
+  {
+    "id": 43,
+    "name": "Elegant Concrete Fish",
+    "inventory": 37,
+    "avgSales": 38,
+    "leadTime": 7
+  },
+  {
+    "id": 44,
+    "name": "Frozen Plastic Hat",
+    "inventory": 21,
+    "avgSales": 56,
+    "leadTime": 3
+  },
+  {
+    "id": 45,
+    "name": "Generic Plastic Keyboard",
+    "inventory": 37,
+    "avgSales": 48,
+    "leadTime": 2
+  },
+  {
+    "id": 46,
+    "name": "Fantastic Ceramic Hat",
+    "inventory": 28,
+    "avgSales": 15,
+    "leadTime": 3
+  },
+  {
+    "id": 47,
+    "name": "Ergonomic Wooden Shirt",
+    "inventory": 1,
+    "avgSales": 60,
+    "leadTime": 6
+  },
+  {
+    "id": 48,
+    "name": "Incredible Wooden Car",
+    "inventory": 39,
+    "avgSales": 18,
+    "leadTime": 2
+  },
+  {
+    "id": 49,
+    "name": "Generic Bronze Salad",
+    "inventory": 36,
+    "avgSales": 59,
+    "leadTime": 1
+  },
+  {
+    "id": 50,
+    "name": "Elegant Ceramic Soap",
+    "inventory": 13,
+    "avgSales": 13,
+    "leadTime": 2
+  },
+  {
+    "id": 51,
+    "name": "Gorgeous Marble Salad",
+    "inventory": 45,
+    "avgSales": 46,
+    "leadTime": 6
+  },
+  {
+    "id": 52,
+    "name": "Sleek Steel Chips",
+    "inventory": 38,
+    "avgSales": 51,
+    "leadTime": 7
+  },
+  {
+    "id": 53,
+    "name": "Frozen Concrete Bacon",
+    "inventory": 19,
+    "avgSales": 57,
+    "leadTime": 1
+  },
+  {
+    "id": 54,
+    "name": "Handcrafted Metal Soap",
+    "inventory": 0,
+    "avgSales": 26,
+    "leadTime": 1
+  },
+  {
+    "id": 55,
+    "name": "Soft Wooden Tuna",
+    "inventory": 39,
+    "avgSales": 51,
+    "leadTime": 7
+  },
+  {
+    "id": 56,
+    "name": "Sleek Cotton Hat",
+    "inventory": 31,
+    "avgSales": 26,
+    "leadTime": 3
+  },
+  {
+    "id": 57,
+    "name": "Soft Silk Chair",
+    "inventory": 3,
+    "avgSales": 65,
+    "leadTime": 6
+  },
+  {
+    "id": 58,
+    "name": "Rustic Rubber Chair",
+    "inventory": 11,
+    "avgSales": 11,
+    "leadTime": 7
+  },
+  {
+    "id": 59,
+    "name": "Oriental Gold Shirt",
+    "inventory": 30,
+    "avgSales": 56,
+    "leadTime": 6
+  },
+  {
+    "id": 60,
+    "name": "Soft Metal Hat",
+    "inventory": 16,
+    "avgSales": 27,
+    "leadTime": 4
+  },
+  {
+    "id": 61,
+    "name": "Intelligent Metal Salad",
+    "inventory": 42,
+    "avgSales": 60,
+    "leadTime": 3
+  },
+  {
+    "id": 62,
+    "name": "Bespoke Gold Bike",
+    "inventory": 50,
+    "avgSales": 67,
+    "leadTime": 6
+  },
+  {
+    "id": 63,
+    "name": "Awesome Ceramic Ball",
+    "inventory": 7,
+    "avgSales": 37,
+    "leadTime": 2
+  },
+  {
+    "id": 64,
+    "name": "Handcrafted Concrete Keyboard",
+    "inventory": 30,
+    "avgSales": 30,
+    "leadTime": 6
+  },
+  {
+    "id": 65,
+    "name": "Intelligent Concrete Keyboard",
+    "inventory": 26,
+    "avgSales": 61,
+    "leadTime": 5
+  },
+  {
+    "id": 66,
+    "name": "Practical Metal Bacon",
+    "inventory": 16,
+    "avgSales": 24,
+    "leadTime": 4
+  },
+  {
+    "id": 67,
+    "name": "Tasty Gold Fish",
+    "inventory": 44,
+    "avgSales": 34,
+    "leadTime": 3
+  },
+  {
+    "id": 68,
+    "name": "Intelligent Silk Gloves",
+    "inventory": 34,
+    "avgSales": 61,
+    "leadTime": 6
+  },
+  {
+    "id": 69,
+    "name": "Practical Cotton Fish",
+    "inventory": 13,
+    "avgSales": 19,
+    "leadTime": 5
+  },
+  {
+    "id": 70,
+    "name": "Unbranded Gold Car",
+    "inventory": 7,
+    "avgSales": 14,
+    "leadTime": 4
+  },
+  {
+    "id": 71,
+    "name": "Oriental Wooden Salad",
+    "inventory": 50,
+    "avgSales": 19,
+    "leadTime": 4
+  },
+  {
+    "id": 72,
+    "name": "Refined Granite Chair",
+    "inventory": 29,
+    "avgSales": 15,
+    "leadTime": 3
+  },
+  {
+    "id": 73,
+    "name": "Rustic Ceramic Shirt",
+    "inventory": 49,
+    "avgSales": 20,
+    "leadTime": 1
+  },
+  {
+    "id": 74,
+    "name": "Licensed Rubber Gloves",
+    "inventory": 46,
+    "avgSales": 31,
+    "leadTime": 1
+  },
+  {
+    "id": 75,
+    "name": "Luxurious Marble Shoes",
+    "inventory": 45,
+    "avgSales": 61,
+    "leadTime": 2
+  },
+  {
+    "id": 76,
+    "name": "Luxurious Granite Pants",
+    "inventory": 2,
+    "avgSales": 14,
+    "leadTime": 6
+  },
+  {
+    "id": 77,
+    "name": "Frozen Marble Bike",
+    "inventory": 17,
+    "avgSales": 25,
+    "leadTime": 4
+  },
+  {
+    "id": 78,
+    "name": "Handcrafted Wooden Bike",
+    "inventory": 16,
+    "avgSales": 41,
+    "leadTime": 7
+  },
+  {
+    "id": 79,
+    "name": "Fresh Bamboo Chicken",
+    "inventory": 15,
+    "avgSales": 33,
+    "leadTime": 1
+  },
+  {
+    "id": 80,
+    "name": "Refined Bamboo Tuna",
+    "inventory": 47,
+    "avgSales": 29,
+    "leadTime": 5
+  },
+  {
+    "id": 81,
+    "name": "Soft Steel Bike",
+    "inventory": 7,
+    "avgSales": 39,
+    "leadTime": 6
+  },
+  {
+    "id": 82,
+    "name": "Oriental Concrete Pants",
+    "inventory": 43,
+    "avgSales": 57,
+    "leadTime": 2
+  },
+  {
+    "id": 83,
+    "name": "Electronic Ceramic Chicken",
+    "inventory": 4,
+    "avgSales": 56,
+    "leadTime": 3
+  },
+  {
+    "id": 84,
+    "name": "Oriental Bamboo Shoes",
+    "inventory": 17,
+    "avgSales": 35,
+    "leadTime": 2
+  },
+  {
+    "id": 85,
+    "name": "Tasty Bamboo Shoes",
+    "inventory": 26,
+    "avgSales": 21,
+    "leadTime": 6
+  },
+  {
+    "id": 86,
+    "name": "Frozen Plastic Soap",
+    "inventory": 12,
+    "avgSales": 28,
+    "leadTime": 6
+  },
+  {
+    "id": 87,
+    "name": "Rustic Concrete Tuna",
+    "inventory": 21,
+    "avgSales": 43,
+    "leadTime": 1
+  },
+  {
+    "id": 88,
+    "name": "Refined Marble Keyboard",
+    "inventory": 16,
+    "avgSales": 13,
+    "leadTime": 5
+  },
+  {
+    "id": 89,
+    "name": "Oriental Cotton Salad",
+    "inventory": 10,
+    "avgSales": 48,
+    "leadTime": 3
+  },
+  {
+    "id": 90,
+    "name": "Electronic Granite Salad",
+    "inventory": 26,
+    "avgSales": 15,
+    "leadTime": 2
+  },
+  {
+    "id": 91,
+    "name": "Fantastic Silk Fish",
+    "inventory": 15,
+    "avgSales": 57,
+    "leadTime": 7
+  },
+  {
+    "id": 92,
+    "name": "Ergonomic Steel Pants",
+    "inventory": 40,
+    "avgSales": 23,
+    "leadTime": 6
+  },
+  {
+    "id": 93,
+    "name": "Handcrafted Granite Cheese",
+    "inventory": 44,
+    "avgSales": 20,
+    "leadTime": 1
+  },
+  {
+    "id": 94,
+    "name": "Modern Gold Pants",
+    "inventory": 25,
+    "avgSales": 58,
+    "leadTime": 7
+  },
+  {
+    "id": 95,
+    "name": "Unbranded Granite Towels",
+    "inventory": 15,
+    "avgSales": 33,
+    "leadTime": 5
+  },
+  {
+    "id": 96,
+    "name": "Practical Ceramic Mouse",
+    "inventory": 5,
+    "avgSales": 68,
+    "leadTime": 7
+  },
+  {
+    "id": 97,
+    "name": "Unbranded Steel Chips",
+    "inventory": 39,
+    "avgSales": 17,
+    "leadTime": 3
+  },
+  {
+    "id": 98,
+    "name": "Awesome Plastic Cheese",
+    "inventory": 35,
+    "avgSales": 19,
+    "leadTime": 7
+  },
+  {
+    "id": 99,
+    "name": "Handcrafted Ceramic Sausages",
+    "inventory": 32,
+    "avgSales": 53,
+    "leadTime": 6
+  },
+  {
+    "id": 100,
+    "name": "Luxurious Aluminum Chips",
+    "inventory": 27,
+    "avgSales": 47,
+    "leadTime": 7
+  }
+]
